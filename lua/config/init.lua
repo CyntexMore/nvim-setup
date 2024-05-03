@@ -4,6 +4,7 @@ vim.opt.rnu = true
 vim.opt.nu = true
 vim.opt.shiftwidth = 2
 vim.opt.tabstop = 2
+vim.opt.guicursor = "i:block"
 
 vim.opt.clipboard = "unnamedplus"
 
